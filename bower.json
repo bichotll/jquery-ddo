@@ -1,5 +1,5 @@
 {
-  "name": "ddo",
+  "name": "jquery-ddo",
   "dependencies": {},
   "devDependencies": {
     "qunit": "~1.12.0",
