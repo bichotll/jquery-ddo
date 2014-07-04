@@ -1,6 +1,5 @@
 {
   "name": "ddo",
-  "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
     "qunit": "~1.12.0",
