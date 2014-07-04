@@ -1,0 +1,28 @@
+{
+  "name": "ddo",
+  "title": "Command an element to do something",
+  "description": "Mark an element with instructions to do something to another element or itself",
+  "version": "1.0.0",
+  "homepage": "",
+  "author": {
+    "name": "bichotll",
+    "url": "https://github.com/bichotll"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
